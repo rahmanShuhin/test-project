@@ -1,0 +1,11 @@
+.landing {
+  min-height: 70vh;
+  display: grid;
+  place-items: center;
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    object-fit: fill;
+  }
+}
